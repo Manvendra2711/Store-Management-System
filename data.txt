@@ -1,0 +1,11 @@
+101     Lays    27      50
+102     Juice   15      30
+103     Chocolate   20      25
+104     Cookies     12      40
+105     Soda        10      20
+106     Chips       25      45
+107     Crackers    30      35
+108     Popcorn     18      55
+109     water       40      15
+110     Nuts        22      50
+
